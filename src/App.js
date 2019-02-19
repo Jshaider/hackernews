@@ -15,7 +15,7 @@ class App extends Component {
           userId: '04',
         },
         {
-          name: 'winter',
+          name: 'winters',
           age: 20,
           eyecolor: 'dark brown',
           height: 4.9,
